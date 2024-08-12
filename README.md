@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub !
 
-## 👋 Salut, je suis [Ayoub Ben Khiroun] !
+## 👋 Salut, je suis Ayoub Ben Khiroun !
 
 Je suis un développeur web et mobile basé en Tunisie avec une passion pour la création de solutions innovantes et efficaces. J'ai une expérience approfondie dans le développement avec Java, Spring Boot, et Angular. 
 
@@ -17,7 +17,7 @@ Je suis un développeur web et mobile basé en Tunisie avec une passion pour la 
 ## 📫 Me contacter
 
 - **Email :** [contact@ayoubbenkhiroun.com](mailto:ton.email@example.com)
-- **Site web :** [Ayoub Ben Khiroun (Mon Blog)]((https://ayoubbenkhiroun.tn/))
+- **Site web :** ayoubbenkhiroun.tn
 
 ## 🌍 Langues parlées
 
