@@ -1,39 +1,52 @@
-# Bienvenue sur mon profil GitHub !
+# 👋 Bonjour, moi c'est Ayoub Ben Khiroun !
 
-## 👋 Salut, je suis Ayoub Ben Khiroun !
-
-Je suis un développeur web et mobile basé en Tunisie avec une passion pour la création de solutions innovantes et efficaces. J'ai une expérience approfondie dans le développement avec Java, Spring Boot, et Angular. 
-
-## 💻 Compétences
-
-- **Langages de programmation :** Java, TypeScript, JavaScript
-- **Frameworks et bibliothèques :** Spring Boot, Angular
-- **Développement web :** HTML5, CSS3, SCSS
-- **Développement mobile :** Ionic
-- **Bases de données :** MySQL, PostgreSQL
-- **Outils et technologies :** Git, Docker, CI/CD, Maven, Gradle
-- **Méthodologies :** Agile, Scrum
-
-## 📫 Me contacter
-
-- **Email :** [contact@ayoubbenkhiroun.com](mailto:ton.email@example.com)
-- **Site web :** ayoubbenkhiroun.tn
-
-## 🌍 Langues parlées
-
-- Arabe (langue maternelle)
-- Français
-- Anglais
-
-## 🌟 À propos de moi
-
-Je suis passionné par la technologie et toujours à la recherche de nouveaux défis. J'aime collaborer sur des projets open-source et contribuer à la communauté de développeurs. Si vous avez un projet intéressant ou si vous souhaitez discuter de technologies, n'hésitez pas à me contacter !
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayoubbenkhiroun&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Tech%20Lead%20%40%20Amaris-blue?style=flat-square&logo=appveyor" alt="Tech Lead" />
+  <img src="https://img.shields.io/badge/Focus-BPMN%20%2F%20Camunda%208-orange?style=flat-square&logo=camunda" alt="Camunda 8" />
+</div>
 
 ---
 
-Merci de visiter mon profil GitHub. N'hésitez pas à explorer mes projets et à me laisser un message si vous avez des questions ou des opportunités de collaboration.
+## 🚀 À propos de moi
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoubbenkhiroun&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+Tech Lead chez **Amaris Consulting**, je pilote des squads de développement pour des projets de transformation de processus métier et de migration (notamment sur **Camunda 8** et l'écosystème **BPMN 2.0** pour Bouygues Telecom). 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbenkhiroun&layout=compact&theme=dark)
+Passionné par l'architecture logicielle, l'automatisation et l'ingénierie web, je conçois des solutions robustes et évolutives tout en partageant mon expertise à travers mon blog technique ([pdacamunda.com](https://pdacamunda.com)).
 
+---
+
+## 💻 Stack Technique & Compétences
+
+| Domaine | Technologies |
+| :--- | :--- |
+| **Backend & Orchestration** | Java, Spring Boot, Zeebe Engine, Camunda 8, BPMN 2.0, PHP, WordPress |
+| **Frontend & Web** | Angular, TypeScript, JavaScript, HTML5, SCSS, Ionic |
+| **Bases de données & Data** | PostgreSQL, MySQL, Oracle, SAP Web Intelligence |
+| **DevOps & Outils** | Git, Docker, CI/CD, Maven, Gradle |
+| **Méthodologies** | Agile, Scrum, Architecture Microservices |
+
+---
+
+## 🛠️ Projets & Initiatives Marquantes
+
+- **Camunda AutoSense :** Suite modulaire d'audit de qualité BPMN, de génération d'identité de processus et de tests automatisés.
+- **ORIZON :** Portail interne de gestion d'équipe (suivi d'activité, matrices de compétences, wiki, refactorisé en microservices Angular / Spring Boot).
+- **Blog Technique (`pdacamunda.com`) :** Partage de retours d'expérience sur Camunda et l'architecture logicielle.
+
+---
+
+## 📫 Me contacter
+
+- **Email :** [contact@ayoubbenkhiroun.com](mailto:contact@ayoubbenkhiroun.com)
+- **Site web / Blog :** [ayoubbenkhiroun.tn](https://ayoubbenkhiroun.tn) / [pdacamunda.com](https://pdacamunda.com)
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoubbenkhiroun&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbenkhiroun&layout=compact&theme=dark" alt="Top Langs" />
+</div>
